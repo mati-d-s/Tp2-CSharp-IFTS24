@@ -1,0 +1,14 @@
+/home/goste/Escritorio/TpVsCodeCSharp2/bin/Debug/net8.0/TpVsCodeCSharp2
+/home/goste/Escritorio/TpVsCodeCSharp2/bin/Debug/net8.0/TpVsCodeCSharp2.deps.json
+/home/goste/Escritorio/TpVsCodeCSharp2/bin/Debug/net8.0/TpVsCodeCSharp2.runtimeconfig.json
+/home/goste/Escritorio/TpVsCodeCSharp2/bin/Debug/net8.0/TpVsCodeCSharp2.dll
+/home/goste/Escritorio/TpVsCodeCSharp2/bin/Debug/net8.0/TpVsCodeCSharp2.pdb
+/home/goste/Escritorio/TpVsCodeCSharp2/obj/Debug/net8.0/TpVsCodeCSharp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/goste/Escritorio/TpVsCodeCSharp2/obj/Debug/net8.0/TpVsCodeCSharp2.AssemblyInfoInputs.cache
+/home/goste/Escritorio/TpVsCodeCSharp2/obj/Debug/net8.0/TpVsCodeCSharp2.AssemblyInfo.cs
+/home/goste/Escritorio/TpVsCodeCSharp2/obj/Debug/net8.0/TpVsCodeCSharp2.csproj.CoreCompileInputs.cache
+/home/goste/Escritorio/TpVsCodeCSharp2/obj/Debug/net8.0/TpVsCodeCSharp2.dll
+/home/goste/Escritorio/TpVsCodeCSharp2/obj/Debug/net8.0/refint/TpVsCodeCSharp2.dll
+/home/goste/Escritorio/TpVsCodeCSharp2/obj/Debug/net8.0/TpVsCodeCSharp2.pdb
+/home/goste/Escritorio/TpVsCodeCSharp2/obj/Debug/net8.0/TpVsCodeCSharp2.genruntimeconfig.cache
+/home/goste/Escritorio/TpVsCodeCSharp2/obj/Debug/net8.0/ref/TpVsCodeCSharp2.dll

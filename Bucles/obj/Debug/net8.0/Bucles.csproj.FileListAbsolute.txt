@@ -1,0 +1,14 @@
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/bin/Debug/net8.0/Bucles
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/bin/Debug/net8.0/Bucles.deps.json
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/bin/Debug/net8.0/Bucles.runtimeconfig.json
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/bin/Debug/net8.0/Bucles.dll
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/bin/Debug/net8.0/Bucles.pdb
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/obj/Debug/net8.0/Bucles.GeneratedMSBuildEditorConfig.editorconfig
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/obj/Debug/net8.0/Bucles.AssemblyInfoInputs.cache
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/obj/Debug/net8.0/Bucles.AssemblyInfo.cs
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/obj/Debug/net8.0/Bucles.csproj.CoreCompileInputs.cache
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/obj/Debug/net8.0/Bucles.dll
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/obj/Debug/net8.0/refint/Bucles.dll
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/obj/Debug/net8.0/Bucles.pdb
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/obj/Debug/net8.0/Bucles.genruntimeconfig.cache
+/home/goste/Escritorio/TpVsCodeCSharp2/Bucles/obj/Debug/net8.0/ref/Bucles.dll
